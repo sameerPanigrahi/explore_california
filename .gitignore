@@ -1,7 +1,5 @@
-*.txt
 log*.txt
 *.zip
-log*.txt
 assets/images/
 assets/videos/
 log*.txt*[0-9]*
