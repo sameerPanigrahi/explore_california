@@ -1,5 +1,9 @@
 log*.txt
+
 *.zip
+
 assets/images/
+
 assets/videos/
+
 log*.txt*[0-9]*
